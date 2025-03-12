@@ -1,10 +1,19 @@
 {
     "name": "michal.dolinski/coral-interview-test",
-    "description": "Interview test",
+    "description": "Interview tests",
     "authors": [
         {
             "name": "Coral"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Awin\\": "src/",
+            "Awin\\UnitTest\\": "tests/unit"
+        }
+    }
 }

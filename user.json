@@ -1,0 +1,15 @@
+{
+  "firstName" : "John",
+  "lastName" : "Doe",
+  "dob" : "23.06.1992",
+  "citizenship" : "Netherlands",
+  "annualSalary" :  29000,
+  "salaryCurrency" : "EUR",
+  "monthlySpending" : 1400,
+  "spendingCurrency" : "EUR",
+  "location" : "United Kingdom",
+  "workStatus" : "Employed full-time",
+  "maritalStatus" : "Single",
+  "residentialStatus" : "PrivateRenting",
+  "planingToMoveOutFromUK" : 0
+}
