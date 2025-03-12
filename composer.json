@@ -1,0 +1,10 @@
+{
+    "name": "michal.dolinski/coral-interview-test",
+    "description": "Interview test",
+    "authors": [
+        {
+            "name": "Coral"
+        }
+    ],
+    "require": {}
+}
