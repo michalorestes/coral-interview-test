@@ -1,5 +1,7 @@
 <?php
 
+use Awin\Application\EligibilityChecker;
+
 include 'vendor/autoload.php';
 
 include 'src/Application/EligibilityChecker.php';
